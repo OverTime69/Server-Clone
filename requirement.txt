@@ -1,0 +1,8 @@
+pip install discord.py==1.7.2
+pip install psutil
+pip install colorama
+pip install asyncio
+pip install requests
+pip install time
+pip install pypresence
+pip install urllib3
